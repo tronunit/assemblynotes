@@ -11,7 +11,14 @@
 	.cpu	cortex-a15
 	.fpu vfpv3-d16
 /* options to switch to for rpi template */
-/*  .arch	armv8-a
+/*	so previously I was using armv7-a here
+	but I have discovered that raspbian kernel and userland are
+	compiled as armv7 on a pi3 and pi4, despite being armv8-a chips
+	am still researching what that means for fpu
+	(as of 2020 there is a beta for a 64bit raspbian, and some alternate 64bit debian images)
+*/
+/*
+	.arch	armv7-a      
 	.cpu	cortex-a53
 	.fpu	neon-fp-armv8
 */
