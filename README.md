@@ -14,6 +14,7 @@ PDFs of worksheets
 * Currently I have one for the stack and the registers. 
 * I am working on some that cover various instruction types (These are not up yet)
 * once I get a good number of pdfs and .s files I may separate out the pdfs into their own repo
+* some markdown drafts of info
 A skeleton file that I am using as scratch right now, while I figure out what directives are ideal 
 
 *****
