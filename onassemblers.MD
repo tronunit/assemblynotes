@@ -4,7 +4,7 @@ The assembler you use will determine what macros and directives you can use, wha
 If you start using another assembler/compiler, be prepared to do some research.
 
 # gcc needs a main label, as needs a start label
-
+* sorry in advance for the tangents. I have tried to prioritize the list items. Feel free to stop reading lower down the list
 
 ## as and ld
 * often used to demonstrate what linking is/does
