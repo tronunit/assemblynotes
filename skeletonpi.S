@@ -1,14 +1,14 @@
-/* boilerplate file skeleton updates june 22, 2020*/
-@ feel free to adapt
+
 /*
-this is a file I used awhile ago. Am currently working out what directives are actually
-best considering I am running raspbian compiled as armv7 on an rpi3, despite armv8-a chip
+this is a boilerplate file I used awhile ago. C
+Currently working out what directives are actually
+best considering I am running raspbian compiled as 
+armv7 on an rpi3, despite armv8-a chip
 */
 
 
-@ currently putting notes on directives I find here
+@ the cortex-a15 directives are for a 'snow neptune' exyneos samsung chromebook
 
-@ I use 2 environements, so I set this up to switch back and forth
 @ This assumes gcc. 
 
 
@@ -16,7 +16,7 @@ best considering I am running raspbian compiled as armv7 on an rpi3, despite arm
 	.arch	armv7-a
 	.cpu	cortex-a15
 	.fpu vfpv3-d16  @ need to verify this
-/* options to switch to for rpi template */
+
 /*	so previously I was using armv8-a here
 	not sure what happens with armv8-a running on an armv7 system
 	-- raspbian kernel and userland are
