@@ -2,6 +2,13 @@
 notes on assembly language
 Still in draft stage!
 
+There are a lot of tutorials out there that go over a lot of basic stuff. There is simply so much 'beginning stuff' that it's hard to get into the actual code.
+
+* I have found myself reading lots of tutorials that never actually get to the point I am at.
+* Sometimes the one sentance you need in a reference requires massive detective work to find
+* I am coming back to working with asm after + a year and I forgot where the good stuff is, so this time I am storing it here
+
+
 This is not an introductory tutorial. It's not actually a tutorial :)
 It's the things I have found that were missing from other tutorials and references, along with a collection of resouces that have helped me.
 I intend to add some 'assembly language coloring book' style printables but they are currently in a very rough stage of development. 
