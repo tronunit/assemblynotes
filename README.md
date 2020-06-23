@@ -12,10 +12,12 @@ There are a lot of tutorials out there that go over a lot of basic stuff. There 
 PDFs of worksheets
 * These are printable, in black and white unless stated in name of the file
 * Currently I have one for the stack and the registers. 
-* I am working on some that cover various instruction types (These are not up yet)
-* once I get a good number of pdfs and .s files I may separate out the pdfs into their own repo
-* some markdown drafts of info
-A skeleton file that I am using as scratch right now, while I figure out what directives are ideal 
+* I am working on some that cover various instruction types (These are not up yet
+
+Once I get a good number of pdfs and .s files I may separate out the pdfs into their own repo
+* some markdown drafts of info are also in here
+A skeleton file that I am using as scratch right now, while I figure out what directives are ideal is also up there
+* I am planning to put some heavily commented examples up there
 
 *****
 I am putting a lot of info in the wiki. (Meaning hit the 'wiki' tab above) I am trying to keep the stuff that's more curated other resources over there, and keeping stuff I have made over here. 
