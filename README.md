@@ -53,9 +53,11 @@ There are a lot of tutorials out there that go over a lot of basic stuff. There 
 * I am coming back to working with asm after + a year and I forgot where the good stuff is, so this time I am storing it here
 
 ***
+https://en.wikipedia.org/wiki/GNU_Assembler
 
 link to 32bit arm:
-
+https://developer.arm.com/docs/ddi0597/g
 link to 64 bit arm: 
+
 
 intel manual link https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf
