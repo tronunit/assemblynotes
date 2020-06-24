@@ -55,6 +55,9 @@ There are a lot of tutorials out there that go over a lot of basic stuff. There 
 ***
 https://en.wikipedia.org/wiki/GNU_Assembler
 
+* gnu gas manual
+https://sourceware.org/binutils/docs-2.34/as/index.html
+
 link to 32bit arm:
 https://developer.arm.com/docs/ddi0597/g
 link to 64 bit arm: 
