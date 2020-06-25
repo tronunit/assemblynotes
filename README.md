@@ -32,21 +32,7 @@ I am putting a lot of info in the wiki. (Meaning hit the 'wiki' tab above) I am 
 * Some related books I have read
 
 
-****
-### *disclaimer* It's really easy to say something incorrect. 
-* sometimes something that seems incorrect is not, there is just a missing piece of context
-* generalizations are often vaguely incorrect because they obscure details
-* watch out for 'always' and 'never'
-* watch out for unqualified value statements: x is bad, y is good. We're the best because of 'catch phrase'
-* thinking you know the answer to something can block you from finding the real answer, so when you're stuck, go back and check your base assumptions
-* everything can be solved by another layer of abstraction except the problem of too many layers of abstraction (This is a quote, I need to find attribution)
-* abstraction is leaky
-* meaning, best case you need to understand what is being abstracted, worst case you must be able to do the layer below at the drop of a hat
-* programming language communites can be very siloed, and have different words for the same thing and the same word for different things
-* I am not actually allergic to punctuation, I was exposed to c and unix at an impressionable age
-* antipatterns can be antipatterns. They usually have a grain of good device, but the problem with a rule of thumb is that it will not always be true
 
-There are a lot of tutorials out there that go over a lot of basic stuff. There is simply so much 'beginning stuff' that it's hard to get into the actual code/ intermediate beginner stuff...
 
 * I have found myself reading lots of tutorials that never actually get to the point I am at.
 * Sometimes the one sentance you need in a reference requires massive detective work to find
