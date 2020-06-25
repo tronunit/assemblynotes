@@ -50,7 +50,7 @@ When checking out a new (to you) ISA:
  * except movt, movw, generally you use the whole 32 bit register at a time in armv7. The floating point registers in fpu/neon have nested structures that remind me of the intel nested general register scheme. 
  * RISC prefers that registers don't have special jobs. (Or so I hear.) Intel registers tend to have jobs. Truthfully, programming convention means that general purpose registers end up having specific roles as well. This is not enforced in hardware. But having repeated patterns makes life a lot easier
  * Intel/x86/x86 assembly has 2 different syntaxes, intel and at&t. They do the same stuff but express it just differently enough that you will be freaked out by the other one, once you learn one well. (generally tools now let you display the syntax of your choice, though you may need to look up how.)
- * There appear to be some syntax variations in arm, for instance with different assemblers, but not as different as intel/at&t. I use either as or gcc. I notice a lot of code I use has a .syntax unified directive. 
+ * There appear to be some syntax variations in arm, for instance with different assemblers, such as thei keil assembler vs gcc, but not as different as intel/at&t. (So far.) I use either as or gcc. 
 
 You don't need to know c to learn assembly, but it will help if you know a little.
 
