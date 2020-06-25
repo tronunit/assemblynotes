@@ -3,14 +3,16 @@
 Still in draft stage!
 
 * Currently working on ARM, armv7 (32 bit) with a raspberry pi 3 B, running raspian, and a samsung arm chromebook (snow neptune) with Arch, also armv7.
+* Have just started using code::blocks with gcc, which was pretty painless to set up. Frontend for gdb. I haven't worked out how to get syntax highlighting.
+* So far only atom and visual studio code have some arm assembly syntax highlighting that I have found.
 * I use gcc, gdb, vim, tmux, radare2, various text editors. 
-* I also have a side side project looking at powerpc assembly on a ~2004 ibook with a g3
-* I have also worked with x86, x64, but am trying to stay focused!
-     
 
+     
+## most actual assembly source is in the other repo(s)
 
 ## In this repo: 
 PDFs of worksheets
+* so far not amazing
 * These are printable, in black and white unless stated in name of the file.
 * Currently I have one for the stack and the registers. These are just simple diagrams so far
 * I am working on some that cover various instruction types (These are not up yet)
@@ -30,14 +32,6 @@ I am putting a lot of info in the wiki. (Meaning hit the 'wiki' tab above) I am 
 * a list of assembly language/rpi tutorials organized by what version of the pi they are on
 * I plan to put a page for system call reference links, c language links, etc
 * Some related books I have read
-
-
-
-
-* I have found myself reading lots of tutorials that never actually get to the point I am at.
-* Sometimes the one sentance you need in a reference requires massive detective work to find
-* I am coming back to working with asm after + a year and I forgot where the good stuff is, so this time I am storing it here
-
 ***
 https://en.wikipedia.org/wiki/GNU_Assembler
 
